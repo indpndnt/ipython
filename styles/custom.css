@@ -47,7 +47,7 @@
 <script>
     MathJax.Hub.Config({
                         TeX: {
-                           extensions: ["AMSmath.js","AMSsymbols.js"]
+                           extensions: ["AMSmath.js"]
                            },
                 tex2jax: {
                     inlineMath: [ ['$','$'], ["\\(","\\)"] ],
